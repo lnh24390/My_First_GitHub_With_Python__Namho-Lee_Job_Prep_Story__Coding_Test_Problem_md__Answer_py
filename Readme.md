@@ -21,6 +21,8 @@ https://school.programmers.co.kr/
 * 프로그래머스 - https://school.programmers.co.kr/
 ---
 # 목차
+## 0. 들어가기 전
+### 코딩테스트 개요
 ## 1.가장 큰 정사각형 찾기
 * 가장 큰 정사각형 찾기 문제.md
 * 가장 큰 정사각형 찾기.py
